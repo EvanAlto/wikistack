@@ -5,8 +5,6 @@ const layout = require('./views/layout');
 const { Page, User, db } = require('./models');
 
 const PORT = 1337;
-
-
 // db.authenticate().then(() => {
     //     console.log('db is authenticated');
     // })
